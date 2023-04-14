@@ -6,9 +6,9 @@
  *
  *  Name: Aashna Kundra Student ID: 163028210 Date: 4/10/2023
  *
- *  Cyclic Web App URL: https://misty-gray-sock.cyclic.app/
+ *  Cyclic Web App URL: https://lazy-teal-hippo-fez.cyclic.app
  *
- *  GitHub Repository URL: https://github.com/Aashnakundra/Assignment5
+ *  GitHub Repository URL: https://github.com/Aashnakundra/Assignment6
  *
  ********************************************************************************/
 const express = require("express");
